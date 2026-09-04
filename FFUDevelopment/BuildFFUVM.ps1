@@ -1,4 +1,4 @@
-
+﻿
 #Requires -Modules Hyper-V, Storage
 #Requires -RunAsAdministrator
 
@@ -436,7 +436,7 @@ param(
     [string]$WindowsLang = 'en-us',
     [Parameter(Mandatory = $false)]
     [ValidateSet('consumer', 'business')]
-    [string]$MediaType = 'consumer',
+    [string]$MediaType = 'business',
     [ValidateSet(512, 4096)]
     [uint32]$LogicalSectorSizeBytes = 512,
     [string]$SystemPartitionDriveLetter = 'S',
