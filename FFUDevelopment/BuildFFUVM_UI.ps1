@@ -47,7 +47,7 @@ $script:uiState = [PSCustomObject]@{
         logStreamReader             = $null;
         pollTimer                   = $null;
         currentBuildProcess         = $null;
-        lastConfigFilePath          = $null;
+        lastConfigFilePath          = "$FFUDevelopmentPath\config\default.json";
         loadedDeviceNamingMode      = $null;
         createRecoveryPartition     = $true
     };
