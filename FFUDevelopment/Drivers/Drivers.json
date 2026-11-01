@@ -1,0 +1,26 @@
+{
+  "Dell": {
+    "Models": [
+      {
+        "Name": "Alienware Desktop Alienware Aurora R16",
+        "CabUrl": "https://downloads.dell.com/FOLDER15173074M/1/Alienware_Desktop_0CD2.cab",
+        "SystemId": "0CD2"
+      },
+      {
+        "Name": "Optiplex 5090",
+        "CabUrl": "https://downloads.dell.com/FOLDER15188840M/1/Optiplex_0A54.cab",
+        "SystemId": "0A54"
+      },
+      {
+        "Name": "Optiplex 5090",
+        "CabUrl": "https://downloads.dell.com/FOLDER15188840M/1/Optiplex_0A55.cab",
+        "SystemId": "0A55"
+      },
+      {
+        "Name": "Precision Precision 5820 Tower",
+        "CabUrl": "https://downloads.dell.com/FOLDER15188840M/1/Precision_08B1.cab",
+        "SystemId": "08B1"
+      }
+    ]
+  }
+}
