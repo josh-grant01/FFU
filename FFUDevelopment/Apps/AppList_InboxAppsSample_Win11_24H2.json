@@ -1,11 +1,6 @@
 {
     "apps": [
         {
-            "name": "Windows Notepad",
-            "id": "9MSMLRH6LZF3",
-            "source": "msstore"
-        },
-        {
             "name": "Windows Client Web Experience",
             "id": "9MSSGKG348SP",
             "source": "msstore"
@@ -61,11 +56,6 @@
             "source": "msstore"
         },
         {
-            "name": "Your Phone",
-            "id": "9NMPJ99VJBWV",
-            "source": "msstore"
-        },
-        {
             "name": "Xbox Gaming Overlay",
             "id": "9NZKPSTSNW4P",
             "source": "msstore"
@@ -103,11 +93,6 @@
         {
             "name": "Microsoft Office Hub",
             "id": "9WZDNCRD29V9",
-            "source": "msstore"
-        },
-        {
-            "name": "Bing News",
-            "id": "9WZDNCRFHVFW",
             "source": "msstore"
         },
         {
