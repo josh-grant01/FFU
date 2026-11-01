@@ -24,6 +24,7 @@
 				<HideWirelessSetupInOOBE>true</HideWirelessSetupInOOBE>
 				<!--Hide Wifi Setup -->
 				<HideOnlineAccountScreens>false</HideOnlineAccountScreens>
+				<!--Show Online Microsoft Account-->
 			</OOBE>
 		</component>
 	</settings>
