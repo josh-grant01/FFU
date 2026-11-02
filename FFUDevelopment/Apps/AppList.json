@@ -1,0 +1,9 @@
+{
+  "Priority": 1,
+  "Name": "Bradford FortiNAC",
+  "CommandLine": "msiexec.exe",
+  "Arguments": "/i \"%FFUAppsRoot%\\FortiNAC\\9.4.0.93\\FortiNAC Persistent Agent.msi\" /quiet /passive",
+  "Source": "",
+  "AdditionalExitCodes": "",
+  "IgnoreNonZeroExitCodes": false
+}
